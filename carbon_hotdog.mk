@@ -21,7 +21,7 @@ $(call inherit-product, vendor/carbon/config/common.mk)
 PRODUCT_NAME := carbon_hotdog
 PRODUCT_DEVICE := hotdog
 PRODUCT_BRAND := OnePlus
-PRODUCT_MODEL := OnePlus 7T Pro
+PRODUCT_MODEL := HD1917
 PRODUCT_MANUFACTURER := OnePlus
 
 PRODUCT_AAPT_CONFIG := xxxhdpi
